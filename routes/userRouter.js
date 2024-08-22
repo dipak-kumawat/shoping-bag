@@ -11,7 +11,7 @@ router.post("/register", async function (req, res) {
     let { email, password, fullname } = req.body;
 
     let user = await userModel.create({
-      email,
+      email, 
       password,
       fullname,
     });

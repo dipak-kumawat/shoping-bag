@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Ecommerce
 
 ## Description
@@ -116,3 +117,8 @@ npm run dev
 
 ```
 
+=======
+# shoping-bag 
+
+## node.js, ejs and express.js and mongodb
+>>>>>>> cbfc8e1282bdc3ddc650d9d07d9578f688c85a22
